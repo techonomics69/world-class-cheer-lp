@@ -1,2 +1,3 @@
 # world-class-cheer-lp
-Created with CodeSandbox
+Created with love by Techonomics
+
